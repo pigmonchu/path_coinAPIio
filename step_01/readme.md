@@ -14,4 +14,6 @@ Se trata de hacer una introducción a internet. Lo haremos en dos pasos.
     - Necesidad de obtener una apikey
     - Leer documentación
 
-3. Crear un miniprograma que pida una cantidad y una moneda y nos devuelva su valor en euros
+3. Que es JSON, consumirlo sin problemas
+
+4. Crear un miniprograma que pida una cantidad y una moneda y nos devuelva su valor en euros
